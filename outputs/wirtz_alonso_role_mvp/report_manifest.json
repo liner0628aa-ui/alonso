@@ -1,0 +1,29 @@
+{
+  "source": "statsbomb",
+  "source_version": "content-snapshot:ee53f020b126e50b14776b9c2be2e3e5a4e3a8c640330845644ff1c79f45a949",
+  "processed_files": {
+    "matches.parquet": "27e859bed9faf18396c1d983aa74fc1a0fd128159c9a3992874c6ea10308c921",
+    "players.parquet": "97cff98b9a893e6a882031386612ace26dbaa86793b75f669d701e4b713aa06f",
+    "events.parquet": "3a2a92b780191358cb8ad091929d30500c2d0fb44c73761b1b7597b9e03596ce",
+    "player_match_aggregate_stats.parquet": "430a4325b691629dd0d535d281f9f138ae8ffb0fa8ee0396a2907cf829467e6c"
+  },
+  "license_notice": "Data source: StatsBomb Open Data. Research/non-commercial use only; do not redistribute source or processed data. Publications must credit StatsBomb and display its logo. See the StatsBomb Public Data User Agreement (2023-09-08). The agreement asks users to register their interest at the resource centre.",
+  "definitions": "docs/tactical_features_mvp.md",
+  "feature_version": "event-mvp-v1",
+  "code_sha256": "4220eeb2f16efc19b25350f9f2678b6d3eb94577e49b277a2ad23857396d468a",
+  "definitions_sha256": "9394654a929034db0d24864b34732ad03036a4c7be87361c5a8b524b69ff0336",
+  "outputs": {
+    "wirtz_role_metrics.csv": "8ecec9743faec5bec518d2d6ff2957f5a7e200174a8d09dcbf3db609134d4283",
+    "wirtz_role_totals.csv": "4f08bad5ead9695ee675f95683a87c0fc60c690f0bbc964536d52c0821d32a22",
+    "wirtz_event_features.csv": "efdd5c2590aa10008372c33a5083436989588d7b748c121efc6a83e126ea9b41",
+    "shot_locations.csv": "5a902103e2751724c9dd725c6385c4195920043d38e0814089bb99b6baa2d648",
+    "touch_heatmap.png": "65229753edb4c5a834e258790ab2200d6a7911f6c76360f116186694bb1d31eb",
+    "reception_heatmap.png": "bea9bb39ff021156b3badca6aa3610fe6523fd42779da9315903407f7e5e1283",
+    "progressive_actions.png": "2e6c41de41992cab4c29ebd252f2bb4e15dee3ac723d65b0dabf9644c6a59165",
+    "zone_occupation.png": "e73f886b2e130e15097827d977f8e8dc513fd5f9318369d781fa906cf2f235a0",
+    "match_role_variation.png": "64bcbe0f7ff7d0c51b892ac3763699b5eb62f66ca197abd6a9c191805f9013ed",
+    "team_spatial_profiles.csv": "4da9eaf256d037f67b2ef16e79318b199f1ce7360bdb2a790f3f4735cc6aa55c",
+    "team_average_positions.png": "1bdd8a17ef1147958c9fa14893d7d95eaf3b065e7b70bb8fb9676a739698fcf5",
+    "role_summary.md": "45f1544768ebf001bd3d37daec74ae677e7aa6c683142bc9467c50992fff6025"
+  }
+}

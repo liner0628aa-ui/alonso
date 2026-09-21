@@ -1,0 +1,17 @@
+[
+  "avg_touch_x",
+  "avg_touch_y",
+  "halfspace_share",
+  "passes_p90",
+  "forward_pass_rate",
+  "progressive_passes_p90",
+  "progressive_carries_p90",
+  "final_third_entries_p90",
+  "penalty_area_entries_p90",
+  "shot_assists_p90",
+  "xg_p90",
+  "pressures_p90",
+  "recoveries_p90",
+  "tackles_p90",
+  "interceptions_p90"
+]

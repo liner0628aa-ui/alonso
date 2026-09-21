@@ -1,0 +1,4 @@
+group,n_rows,n_players,reason
+full_back,1,1,fewer than 20 rows; fewer than 2 distinct players
+goalkeeper,33,1,fewer than 2 distinct players
+winger,15,6,fewer than 20 rows

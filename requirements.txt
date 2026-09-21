@@ -1,0 +1,16 @@
+# Python 3.11+; tested in Python 3.13.5. Only runtime dependency for Phase 3.
+pyarrow==25.0.1
+
+# Milestone 1 static scientific visualizations
+matplotlib==3.11.2
+
+# Milestone 2 standardized PCA/cosine baseline
+numpy==2.5.3
+scikit-learn==1.9.1
+
+# Milestone 3 CPU-only autoencoder (pytest is an environment test runner).
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.0+cpu
+
+# Milestone 3.5 minimal local explorer.
+streamlit==1.50.0

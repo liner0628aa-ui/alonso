@@ -1,0 +1,91 @@
+player_id,player_name,group,cosine_similarity,euclidean_distance
+statsbomb:player:28239,Adam Hložek,attacking_midfielder,0.2331358415645551,2.8961644788845593
+statsbomb:player:28239,Adam Hložek,central_midfielder,-0.9064241456244252,3.991687606378656
+statsbomb:player:28239,Adam Hložek,centre_back,-0.6963376148667407,4.0650222910911396
+statsbomb:player:28239,Adam Hložek,striker,0.8711137250942508,2.301819589870679
+statsbomb:player:28239,Adam Hložek,wing_back,0.2922284401835755,2.933894451282284
+statsbomb:player:10336,Alejandro Grimaldo García,attacking_midfielder,0.5811632921250217,1.9693320792856421
+statsbomb:player:10336,Alejandro Grimaldo García,central_midfielder,0.4346593599516223,1.8346149630092585
+statsbomb:player:10336,Alejandro Grimaldo García,centre_back,-0.314854173842637,3.0660128538244535
+statsbomb:player:10336,Alejandro Grimaldo García,striker,-0.25782280635681465,4.676889945366929
+statsbomb:player:10336,Alejandro Grimaldo García,wing_back,0.6630732274944575,1.9786704527881311
+statsbomb:player:33401,Amine Adli,attacking_midfielder,0.960211063320143,0.6794585262566593
+statsbomb:player:33401,Amine Adli,central_midfielder,-0.277601241056864,3.399818242541772
+statsbomb:player:33401,Amine Adli,centre_back,-0.8906707622306301,4.430707721872327
+statsbomb:player:33401,Amine Adli,striker,0.4977909371929358,3.487289927002205
+statsbomb:player:33401,Amine Adli,wing_back,0.9949466739467588,0.33923865961872834
+statsbomb:player:30606,Edmond Fayçal Tapsoba,attacking_midfielder,-0.7764308576588625,4.923261031451268
+statsbomb:player:30606,Edmond Fayçal Tapsoba,central_midfielder,0.7167311512890753,1.9747350319155854
+statsbomb:player:30606,Edmond Fayçal Tapsoba,centre_back,0.9886294097032187,0.7680293740536753
+statsbomb:player:30606,Edmond Fayçal Tapsoba,striker,-0.8246608522269181,6.511895808929678
+statsbomb:player:30606,Edmond Fayçal Tapsoba,wing_back,-0.8288496165377846,5.216240038719415
+statsbomb:player:28268,Exequiel Alejandro Palacios,attacking_midfielder,-0.17270051304277512,3.2558234998448987
+statsbomb:player:28268,Exequiel Alejandro Palacios,central_midfielder,0.9713459393922325,0.4352822598556
+statsbomb:player:28268,Exequiel Alejandro Palacios,centre_back,0.563065196456435,1.874547260384595
+statsbomb:player:28268,Exequiel Alejandro Palacios,striker,-0.8999992438887615,5.6830263630432665
+statsbomb:player:28268,Exequiel Alejandro Palacios,wing_back,-0.14324849953843105,3.4113956569589474
+statsbomb:player:40724,Florian Wirtz,attacking_midfielder,0.8490850474865564,1.5698917569536217
+statsbomb:player:40724,Florian Wirtz,central_midfielder,0.06172417534286409,3.380362757984841
+statsbomb:player:40724,Florian Wirtz,centre_back,-0.49203736216067867,4.431753346855197
+statsbomb:player:40724,Florian Wirtz,striker,0.23733360970899076,4.370147631903857
+statsbomb:player:40724,Florian Wirtz,wing_back,0.7511419771181481,1.999506702491345
+statsbomb:player:3500,Granit Xhaka,attacking_midfielder,-0.14861396615507177,3.5033425661621127
+statsbomb:player:3500,Granit Xhaka,central_midfielder,0.94743237718034,0.7623220854023471
+statsbomb:player:3500,Granit Xhaka,centre_back,0.6443462629457171,1.8395388203792777
+statsbomb:player:3500,Granit Xhaka,striker,-0.8330053827126241,5.963392760382916
+statsbomb:player:3500,Granit Xhaka,wing_back,-0.2139697239475164,3.789976302780367
+statsbomb:player:32712,Jeremie Frimpong,attacking_midfielder,0.9616786145521774,2.758701871785364
+statsbomb:player:32712,Jeremie Frimpong,central_midfielder,-0.4878515223018887,6.088787205632998
+statsbomb:player:32712,Jeremie Frimpong,centre_back,-0.9189081138377628,7.013069171902798
+statsbomb:player:32712,Jeremie Frimpong,striker,0.713190066431857,3.5252543143025443
+statsbomb:player:32712,Jeremie Frimpong,wing_back,0.9310126015655241,2.712385633534183
+statsbomb:player:8804,Jonas Hofmann,attacking_midfielder,0.9769444863647303,1.0585833682201597
+statsbomb:player:8804,Jonas Hofmann,central_midfielder,-0.21762710808933533,4.077153741273085
+statsbomb:player:8804,Jonas Hofmann,centre_back,-0.8572101134276351,5.231158589842849
+statsbomb:player:8804,Jonas Hofmann,striker,0.4518015690487454,3.852592344254343
+statsbomb:player:8804,Jonas Hofmann,wing_back,0.9984394113636783,0.6583675039094461
+statsbomb:player:8221,Jonathan Tah,attacking_midfielder,-0.9937295160878022,5.659612376935959
+statsbomb:player:8221,Jonathan Tah,central_midfielder,0.35406491566761306,3.1232063656087496
+statsbomb:player:8221,Jonathan Tah,centre_back,0.899485168486587,1.6307450149376077
+statsbomb:player:8221,Jonathan Tah,striker,-0.6080085659371098,6.512664979232063
+statsbomb:player:8221,Jonathan Tah,wing_back,-0.9789288966336833,5.870229582634807
+statsbomb:player:49337,Josip Stanišić,attacking_midfielder,0.06767576756202277,2.55546290956785
+statsbomb:player:49337,Josip Stanišić,central_midfielder,0.9025117959971023,0.9854313241998836
+statsbomb:player:49337,Josip Stanišić,centre_back,0.463467370028615,1.9007940977724036
+statsbomb:player:49337,Josip Stanišić,striker,-0.7196337032494141,4.795961834911175
+statsbomb:player:49337,Josip Stanišić,wing_back,-0.002730111458709479,2.838712473712498
+statsbomb:player:8667,Lukáš Hrádecký,attacking_midfielder,-0.8598183567808603,9.0347793685927
+statsbomb:player:8667,Lukáš Hrádecký,central_midfielder,-0.2726527771292879,7.583473019196882
+statsbomb:player:8667,Lukáš Hrádecký,centre_back,0.4983132158180362,6.104699230087494
+statsbomb:player:8667,Lukáš Hrádecký,striker,-0.034081818805697266,8.073330472241688
+statsbomb:player:8667,Lukáš Hrádecký,wing_back,-0.8444891179327584,9.219498268560239
+statsbomb:player:41411,Nathan Tella,attacking_midfielder,0.8365262237081292,2.571500604235345
+statsbomb:player:41411,Nathan Tella,central_midfielder,-0.5961561878635733,5.5009699751576235
+statsbomb:player:41411,Nathan Tella,centre_back,-0.9822909015850972,6.339080990574471
+statsbomb:player:41411,Nathan Tella,striker,0.7389285551602388,2.9742005110942467
+statsbomb:player:41411,Nathan Tella,wing_back,0.8939544326280959,2.2055844098998563
+statsbomb:player:27133,Odilon Kossonou,attacking_midfielder,-0.6378331842498832,3.737242544729367
+statsbomb:player:27133,Odilon Kossonou,central_midfielder,0.8474737133191727,0.9802042434722816
+statsbomb:player:27133,Odilon Kossonou,centre_back,0.9466042585927522,0.7608500176233657
+statsbomb:player:27133,Odilon Kossonou,striker,-0.8880619637706985,5.567271132717191
+statsbomb:player:27133,Odilon Kossonou,wing_back,-0.6915726085571168,4.016748940942543
+statsbomb:player:7044,Patrik Schick,attacking_midfielder,0.3710721427745731,3.6517691920095277
+statsbomb:player:7044,Patrik Schick,central_midfielder,-0.9477181134035115,5.535270171573684
+statsbomb:player:7044,Patrik Schick,centre_back,-0.7879955989050063,5.628567464020207
+statsbomb:player:7044,Patrik Schick,striker,0.9483836430296865,1.2655931009261352
+statsbomb:player:7044,Patrik Schick,wing_back,0.4057716747156423,3.6281594318460333
+statsbomb:player:38004,Piero Martín Hincapié Reyna,attacking_midfielder,-0.6284028078225009,3.827420014985342
+statsbomb:player:38004,Piero Martín Hincapié Reyna,central_midfielder,0.8729369574360525,0.9190502637642477
+statsbomb:player:38004,Piero Martín Hincapié Reyna,centre_back,0.8401441408112335,1.1633359782321935
+statsbomb:player:38004,Piero Martín Hincapié Reyna,striker,-0.9504304000784433,5.756305065245235
+statsbomb:player:38004,Piero Martín Hincapié Reyna,wing_back,-0.5856985695260534,3.99319916648421
+statsbomb:player:9195,Robert Andrich,attacking_midfielder,-0.7466039411404083,3.851802622399881
+statsbomb:player:9195,Robert Andrich,central_midfielder,0.7856457902117179,1.159141573070858
+statsbomb:player:9195,Robert Andrich,centre_back,0.8820191964821322,1.0268941581417106
+statsbomb:player:9195,Robert Andrich,striker,-0.917673240486157,5.599898071798462
+statsbomb:player:9195,Robert Andrich,wing_back,-0.6983594836334551,4.021058591945003
+statsbomb:player:32289,Victor Okoh Boniface,attacking_midfielder,0.5087669987791203,4.4415826609883835
+statsbomb:player:32289,Victor Okoh Boniface,central_midfielder,-0.9034734480991656,6.840163905821181
+statsbomb:player:32289,Victor Okoh Boniface,centre_back,-0.7726619374519763,6.944663855545503
+statsbomb:player:32289,Victor Okoh Boniface,striker,0.9857256837795355,1.392078001487085
+statsbomb:player:32289,Victor Okoh Boniface,wing_back,0.4602117031070943,4.582652694226935

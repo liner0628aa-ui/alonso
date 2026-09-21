@@ -1,0 +1,25 @@
+{
+  "architecture": [
+    15,
+    12,
+    8,
+    4,
+    8,
+    12,
+    15
+  ],
+  "activation": "GELU",
+  "bottleneck_activation": "linear",
+  "output_activation": "linear",
+  "latent_dim": 4,
+  "loss": "MSE",
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "weight_decay": 1e-05,
+  "batch_size": 32,
+  "max_epochs": 500,
+  "patience": 40,
+  "min_delta": 0.0,
+  "device": "cpu",
+  "threads": 1
+}

@@ -1,0 +1,1217 @@
+{
+  "audited_at": "2026-09-18T03:15:33.315331+00:00",
+  "source": "https://github.com/statsbomb/open-data",
+  "scope": "Bundesliga Alonso-Leverkusen; full listed target seasons",
+  "prior_ingested_match_ids": [
+    "3895052",
+    "3895292"
+  ],
+  "manager_filter": "Existing match metadata: team 904 and manager 1000310; manager_period remains NULL. 2022/23 absent so pre-appointment exclusion has no candidate rows.",
+  "seasons": {
+    "2022/2023": {
+      "published": false,
+      "total_available_matches": 0,
+      "alonso_leverkusen_matches": 0,
+      "event_matches": 0,
+      "lineup_matches": 0,
+      "three_sixty_matches": 0,
+      "previously_ingested": 0,
+      "additional_ingested": 0,
+      "reason": "Season absent from official competitions.json"
+    },
+    "2023/2024": {
+      "published": true,
+      "total_available_matches": 34,
+      "alonso_leverkusen_matches": 34,
+      "event_matches": 34,
+      "lineup_matches": 34,
+      "three_sixty_file_matches": 34,
+      "three_sixty_matches": 31,
+      "previously_ingested": 2,
+      "additional_ingested": 32,
+      "successfully_ingested": 34,
+      "downloaded_not_ingested": 0,
+      "matches": [
+        {
+          "match_id": "3895052",
+          "match_date": "2023-08-19",
+          "events": 3739,
+          "lineup_teams": 2,
+          "raw_360_frames": 3181,
+          "orphan_360_uuids": 0,
+          "previously_ingested": true,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3181,
+            "event_coverage": 0.8507622358919498,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895060",
+          "match_date": "2023-08-26",
+          "events": 4311,
+          "lineup_teams": 2,
+          "raw_360_frames": 3756,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3756,
+            "event_coverage": 0.8712595685455811,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895067",
+          "match_date": "2023-09-02",
+          "events": 3977,
+          "lineup_teams": 2,
+          "raw_360_frames": 3389,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3389,
+            "event_coverage": 0.8521498617048027,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895074",
+          "match_date": "2023-09-15",
+          "events": 4346,
+          "lineup_teams": 2,
+          "raw_360_frames": 3793,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3793,
+            "event_coverage": 0.8727565577542568,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895086",
+          "match_date": "2023-09-24",
+          "events": 4233,
+          "lineup_teams": 2,
+          "raw_360_frames": 3567,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3567,
+            "event_coverage": 0.8426647767540751,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895095",
+          "match_date": "2023-09-30",
+          "events": 4035,
+          "lineup_teams": 2,
+          "raw_360_frames": 3570,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3570,
+            "event_coverage": 0.8847583643122676,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895107",
+          "match_date": "2023-10-08",
+          "events": 4249,
+          "lineup_teams": 2,
+          "raw_360_frames": 3792,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3792,
+            "event_coverage": 0.8924452812426453,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895113",
+          "match_date": "2023-10-21",
+          "events": 4018,
+          "lineup_teams": 2,
+          "raw_360_frames": 3506,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3506,
+            "event_coverage": 0.8725734196117472,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895121",
+          "match_date": "2023-10-29",
+          "events": 3871,
+          "lineup_teams": 2,
+          "raw_360_frames": 3373,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3373,
+            "event_coverage": 0.8713510720743994,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895134",
+          "match_date": "2023-11-04",
+          "events": 3881,
+          "lineup_teams": 2,
+          "raw_360_frames": 3427,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3427,
+            "event_coverage": 0.8830198402473589,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895139",
+          "match_date": "2023-11-12",
+          "events": 4368,
+          "lineup_teams": 2,
+          "raw_360_frames": 3761,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3761,
+            "event_coverage": 0.8610347985347986,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895153",
+          "match_date": "2023-11-25",
+          "events": 4520,
+          "lineup_teams": 2,
+          "raw_360_frames": 3955,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3955,
+            "event_coverage": 0.875,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895158",
+          "match_date": "2023-12-03",
+          "events": 3866,
+          "lineup_teams": 2,
+          "raw_360_frames": 3318,
+          "orphan_360_uuids": 3318,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "invalid_linkage",
+            "frames": null,
+            "reason": "360 UUID integrity failure"
+          }
+        },
+        {
+          "match_id": "3895167",
+          "match_date": "2023-12-10",
+          "events": 4219,
+          "lineup_teams": 2,
+          "raw_360_frames": 3453,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3453,
+            "event_coverage": 0.8184403887177056,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895180",
+          "match_date": "2023-12-17",
+          "events": 4448,
+          "lineup_teams": 2,
+          "raw_360_frames": 3857,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3857,
+            "event_coverage": 0.8671312949640287,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895182",
+          "match_date": "2023-12-20",
+          "events": 4004,
+          "lineup_teams": 2,
+          "raw_360_frames": 3470,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3470,
+            "event_coverage": 0.8666333666333667,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895194",
+          "match_date": "2024-01-13",
+          "events": 4063,
+          "lineup_teams": 2,
+          "raw_360_frames": 3408,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3408,
+            "event_coverage": 0.8387890721142013,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895202",
+          "match_date": "2024-01-20",
+          "events": 4008,
+          "lineup_teams": 2,
+          "raw_360_frames": 3433,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3433,
+            "event_coverage": 0.8565369261477046,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895210",
+          "match_date": "2024-01-27",
+          "events": 4893,
+          "lineup_teams": 2,
+          "raw_360_frames": 4389,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 4389,
+            "event_coverage": 0.8969957081545065,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895220",
+          "match_date": "2024-02-03",
+          "events": 4258,
+          "lineup_teams": 2,
+          "raw_360_frames": 3757,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3757,
+            "event_coverage": 0.8823391263503992,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895232",
+          "match_date": "2024-02-10",
+          "events": 4159,
+          "lineup_teams": 2,
+          "raw_360_frames": 3649,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3649,
+            "event_coverage": 0.8773743688386632,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895244",
+          "match_date": "2024-02-17",
+          "events": 3936,
+          "lineup_teams": 2,
+          "raw_360_frames": 3253,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3253,
+            "event_coverage": 0.8264735772357723,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895250",
+          "match_date": "2024-02-23",
+          "events": 3826,
+          "lineup_teams": 2,
+          "raw_360_frames": 3410,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3410,
+            "event_coverage": 0.891270256142185,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895258",
+          "match_date": "2024-03-03",
+          "events": 3906,
+          "lineup_teams": 2,
+          "raw_360_frames": 3206,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3206,
+            "event_coverage": 0.8207885304659498,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895266",
+          "match_date": "2024-03-10",
+          "events": 4104,
+          "lineup_teams": 2,
+          "raw_360_frames": 3615,
+          "orphan_360_uuids": 3615,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "invalid_linkage",
+            "frames": null,
+            "reason": "360 UUID integrity failure"
+          }
+        },
+        {
+          "match_id": "3895275",
+          "match_date": "2024-03-17",
+          "events": 3909,
+          "lineup_teams": 2,
+          "raw_360_frames": 3341,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3341,
+            "event_coverage": 0.8546942952161678,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895286",
+          "match_date": "2024-03-30",
+          "events": 3894,
+          "lineup_teams": 2,
+          "raw_360_frames": 3434,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3434,
+            "event_coverage": 0.881869542886492,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895292",
+          "match_date": "2024-04-06",
+          "events": 3843,
+          "lineup_teams": 2,
+          "raw_360_frames": 3195,
+          "orphan_360_uuids": 0,
+          "previously_ingested": true,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3195,
+            "event_coverage": 0.8313817330210773,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895302",
+          "match_date": "2024-04-14",
+          "events": 4223,
+          "lineup_teams": 2,
+          "raw_360_frames": 3525,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3525,
+            "event_coverage": 0.8347146578261899,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895309",
+          "match_date": "2024-04-21",
+          "events": 3890,
+          "lineup_teams": 2,
+          "raw_360_frames": 3280,
+          "orphan_360_uuids": 3280,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "invalid_linkage",
+            "frames": null,
+            "reason": "360 UUID integrity failure"
+          }
+        },
+        {
+          "match_id": "3895320",
+          "match_date": "2024-04-27",
+          "events": 3771,
+          "lineup_teams": 2,
+          "raw_360_frames": 3185,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3185,
+            "event_coverage": 0.8446035534341023,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895333",
+          "match_date": "2024-05-05",
+          "events": 3549,
+          "lineup_teams": 2,
+          "raw_360_frames": 2950,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 2950,
+            "event_coverage": 0.8312200619892928,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895340",
+          "match_date": "2024-05-12",
+          "events": 3315,
+          "lineup_teams": 2,
+          "raw_360_frames": 2847,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 2847,
+            "event_coverage": 0.8588235294117647,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        },
+        {
+          "match_id": "3895348",
+          "match_date": "2024-05-18",
+          "events": 4133,
+          "lineup_teams": 2,
+          "raw_360_frames": 3562,
+          "orphan_360_uuids": 0,
+          "previously_ingested": false,
+          "currently_ingested": true,
+          "three_sixty": {
+            "status": "verified_uuid_join",
+            "frames": 3562,
+            "event_coverage": 0.8618436970723445,
+            "storage": "raw only; no tracking reconstruction"
+          }
+        }
+      ]
+    }
+  },
+  "source_receipts": {
+    "competitions.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/competitions.json",
+      "retrieved_at": "2026-09-18T01:56:33.715989+00:00",
+      "sha256": "e6cd42f5d8956d6aa30fb917ce8d4c3b3df1879a93f02f8feba820930a6971fa",
+      "bytes": 34887
+    },
+    "matches/9/281.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/matches/9/281.json",
+      "retrieved_at": "2026-09-14T03:53:56.396607+00:00",
+      "retrieval_timestamp_basis": "mtime of original download; imported existing Phase 1 evidence or current curl download",
+      "imported_at": "2026-09-17T06:29:17.739774+00:00",
+      "sha256": "13dff90f126d9f73da410ae3292b2773744657d3ba968a2b7a9c02135033581c",
+      "bytes": 63079
+    },
+    "events/3895052.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895052.json",
+      "retrieved_at": "2026-09-17T06:27:37.041321+00:00",
+      "retrieval_timestamp_basis": "mtime of original download; imported existing Phase 1 evidence or current curl download",
+      "imported_at": "2026-09-17T06:29:17.999313+00:00",
+      "sha256": "ecc00b4e7ddd0154532329091d5d82fd7de4b9f6aa8da174788816001e40e605",
+      "bytes": 3205861
+    },
+    "lineups/3895052.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895052.json",
+      "retrieved_at": "2026-09-17T06:27:37.397651+00:00",
+      "retrieval_timestamp_basis": "mtime of original download; imported existing Phase 1 evidence or current curl download",
+      "imported_at": "2026-09-17T06:29:18.004461+00:00",
+      "sha256": "485e5e4f06136578a5dd18648397808110978cadb36a63cbe39acf0de613c18b",
+      "bytes": 22124
+    },
+    "three-sixty/3895052.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895052.json",
+      "retrieved_at": "2026-09-17T06:27:38.418575+00:00",
+      "retrieval_timestamp_basis": "mtime of original download; imported existing Phase 1 evidence or current curl download",
+      "imported_at": "2026-09-17T06:29:18.295988+00:00",
+      "sha256": "906e5c676d56f75cc1e3ab4da57c0e1931769bacaa026b8b1dc6b05859246355",
+      "bytes": 8095059
+    },
+    "events/3895060.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895060.json",
+      "retrieved_at": "2026-09-18T02:09:48.222347+00:00",
+      "sha256": "1b2fcf16823fbf04f4ae40492d492304f8d54fdb991cebc7fdcaa2e1d72e5585",
+      "bytes": 3798711
+    },
+    "lineups/3895060.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895060.json",
+      "retrieved_at": "2026-09-18T02:09:43.109113+00:00",
+      "sha256": "a94f051cea4356e4a09741cb737d5e6fd80b0b6611bdebb06e25d0901bfe9213",
+      "bytes": 24228
+    },
+    "three-sixty/3895060.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895060.json",
+      "retrieved_at": "2026-09-18T02:09:58.535282+00:00",
+      "sha256": "550670794f0f26d5399a22aab6fc55b3bca78cd664f87988f6cb5bfa4e6479d5",
+      "bytes": 9161133
+    },
+    "events/3895067.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895067.json",
+      "retrieved_at": "2026-09-18T02:09:31.753439+00:00",
+      "sha256": "8bba4bec9d870aa5b88eab122ba50f33c89d038580893e330e9c0ec41e9a946a",
+      "bytes": 3453122
+    },
+    "lineups/3895067.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895067.json",
+      "retrieved_at": "2026-09-18T02:09:25.962958+00:00",
+      "sha256": "b8604475df28cfb26c207e3aec5342381ff540045e7d94bebe3d6cfc52e044ed",
+      "bytes": 23982
+    },
+    "three-sixty/3895067.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895067.json",
+      "retrieved_at": "2026-09-18T02:09:41.476628+00:00",
+      "sha256": "2fef6f2f1656bafdfda4d533a4ffe611279b8ac9acc3b3899b9801d2f8c2064f",
+      "bytes": 8405943
+    },
+    "events/3895074.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895074.json",
+      "retrieved_at": "2026-09-18T02:07:11.078296+00:00",
+      "sha256": "b43f2c87a77eeca368247ac290fa85297183c14f1a1eb7f5d9b335173205427d",
+      "bytes": 3745841
+    },
+    "lineups/3895074.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895074.json",
+      "retrieved_at": "2026-09-18T02:06:33.653322+00:00",
+      "sha256": "bbc0bfef31c5c59ec00880bc8b54e56b7095668ea56b41cdc37920dd780099a0",
+      "bytes": 25950
+    },
+    "three-sixty/3895074.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895074.json",
+      "retrieved_at": "2026-09-18T02:07:17.112375+00:00",
+      "sha256": "28544d5f41235904aaa11734fcc5dca38e04b5e01c2da4b452a33cd619542010",
+      "bytes": 8303176
+    },
+    "events/3895086.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895086.json",
+      "retrieved_at": "2026-09-18T02:06:37.455586+00:00",
+      "sha256": "84d8ce36e84efbe1b168d39efe0b166c50a48da3cf587986a6455cbb06d6e119",
+      "bytes": 3626424
+    },
+    "lineups/3895086.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895086.json",
+      "retrieved_at": "2026-09-18T02:06:32.729683+00:00",
+      "sha256": "940ac000874a81f5e8b7d14dc08c18c5d746df91e84a900a372dccb1954b82fe",
+      "bytes": 19970
+    },
+    "three-sixty/3895086.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895086.json",
+      "retrieved_at": "2026-09-18T02:07:17.837453+00:00",
+      "sha256": "c6ada5ba5a7c9ab27f5d7fc7bbe675ec6ef7dfbf991d5e2ac7ce5b922f412ddc",
+      "bytes": 8496640
+    },
+    "events/3895095.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895095.json",
+      "retrieved_at": "2026-09-18T02:09:32.511050+00:00",
+      "sha256": "cf37c272322ea2daa3f102783d60dd637585eb029dda0e94e052ab9f5c648a29",
+      "bytes": 3450715
+    },
+    "lineups/3895095.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895095.json",
+      "retrieved_at": "2026-09-18T02:09:25.118258+00:00",
+      "sha256": "bfaac257eac74ca9f365bdb9838c88af8f3a52bb01b3fa83eb5b6ec86d37dba3",
+      "bytes": 21665
+    },
+    "three-sixty/3895095.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895095.json",
+      "retrieved_at": "2026-09-18T03:03:54.945040+00:00",
+      "sha256": "69edfef3b826d9d16b87f0ffa149b0fe0477c5fea4f3e78f16e20cc7e42738a5",
+      "bytes": 8522100
+    },
+    "events/3895107.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895107.json",
+      "retrieved_at": "2026-09-18T02:03:34.363625+00:00",
+      "sha256": "26f6dab51a13ad9877daae29da74bab0be7c5813743994c26e7f4de14719b58c",
+      "bytes": 3667154
+    },
+    "lineups/3895107.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895107.json",
+      "retrieved_at": "2026-09-18T02:03:28.398608+00:00",
+      "sha256": "044e0e6bfeef5f0c1fc3c2c54e6e572d88e058db33c207ca69e004ad8c64b545",
+      "bytes": 20169
+    },
+    "three-sixty/3895107.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895107.json",
+      "retrieved_at": "2026-09-18T02:04:23.349375+00:00",
+      "sha256": "d7a731e11ca5faab7be1b7cd302bb37176616ebbb62104f365c94305ab22d5c9",
+      "bytes": 9084716
+    },
+    "events/3895113.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895113.json",
+      "retrieved_at": "2026-09-18T02:09:03.806771+00:00",
+      "sha256": "09b45ef8b6773cd3f6b6e4d4bdd7346e18c8225654a0a1a48ee7577062b5aad7",
+      "bytes": 3480257
+    },
+    "lineups/3895113.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895113.json",
+      "retrieved_at": "2026-09-18T02:08:55.325931+00:00",
+      "sha256": "dc3f834779dc6a89ff3047ea51152dbebeb6544689c50e816eb3ad224910745a",
+      "bytes": 20214
+    },
+    "three-sixty/3895113.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895113.json",
+      "retrieved_at": "2026-09-18T03:12:06.386572+00:00",
+      "sha256": "ff9ec4195454ba33a777ef571047ba3109e19ad28b1ad9138a33bbda5166f74b",
+      "bytes": 8103116
+    },
+    "events/3895121.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895121.json",
+      "retrieved_at": "2026-09-18T02:06:02.938272+00:00",
+      "sha256": "de2b29ac79817c66c0089166a8078eeff234e18c72b1627b8d9eed3d0a4e587c",
+      "bytes": 3338773
+    },
+    "lineups/3895121.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895121.json",
+      "retrieved_at": "2026-09-18T02:05:58.845188+00:00",
+      "sha256": "542eacefc8ed564535c30a60d6c966079db75257d30b83fb485a5d785db391bb",
+      "bytes": 18007
+    },
+    "three-sixty/3895121.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895121.json",
+      "retrieved_at": "2026-09-18T02:06:21.756434+00:00",
+      "sha256": "00e4336b929110a7460b0f9c77417dcb27611fdd138faaad93ac31eb8009c0ca",
+      "bytes": 8372422
+    },
+    "events/3895134.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895134.json",
+      "retrieved_at": "2026-09-18T02:05:45.497596+00:00",
+      "sha256": "b1e71963d53ad18cdaa5f7c8133d8fe3882246716f7cad090db81e7812532327",
+      "bytes": 3329183
+    },
+    "lineups/3895134.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895134.json",
+      "retrieved_at": "2026-09-18T02:05:42.081151+00:00",
+      "sha256": "2e400bcf6c31db788d04eab6d4e92cadda6601a566167dfa37b2104165cf14b4",
+      "bytes": 20106
+    },
+    "three-sixty/3895134.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895134.json",
+      "retrieved_at": "2026-09-18T02:06:30.334753+00:00",
+      "sha256": "9c7ec3a607cae8702f595a71567c7361bab8feb2ce3193a41f243dfa69f4cb0d",
+      "bytes": 8116618
+    },
+    "events/3895139.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895139.json",
+      "retrieved_at": "2026-09-18T02:06:29.148615+00:00",
+      "sha256": "6f5e7165f5f8ff0b5619f81ed6695ac07e19093f68608a70da70c8976e114650",
+      "bytes": 3745931
+    },
+    "lineups/3895139.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895139.json",
+      "retrieved_at": "2026-09-18T02:06:23.275027+00:00",
+      "sha256": "de98e08f87c2b8232b4c421e24eb7aaf0e16706a5679abe9d81c2d9dac7cac82",
+      "bytes": 19384
+    },
+    "three-sixty/3895139.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895139.json",
+      "retrieved_at": "2026-09-18T02:06:37.182862+00:00",
+      "sha256": "373b6611faee0254aa0727160fbbcc1c2e57f47cf30145163f751d4aa3080d2a",
+      "bytes": 9331063
+    },
+    "events/3895153.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895153.json",
+      "retrieved_at": "2026-09-18T02:09:41.171198+00:00",
+      "sha256": "ff08bf0f3c1d9717eb60a64571ba9aeb413f61475dd0d14529e39cb00cc47b6b",
+      "bytes": 3878084
+    },
+    "lineups/3895153.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895153.json",
+      "retrieved_at": "2026-09-18T02:09:33.543589+00:00",
+      "sha256": "e33ee6a3c5fca8468c0289745988c570d32b6f5b79cf66db7c28fdeb9e83506d",
+      "bytes": 21528
+    },
+    "three-sixty/3895153.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895153.json",
+      "retrieved_at": "2026-09-18T03:04:13.678305+00:00",
+      "sha256": "c758966174f6ab25e21813a0fc369c3b22413710e83c94cddc4f414648f5545d",
+      "bytes": 9867998
+    },
+    "events/3895158.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895158.json",
+      "retrieved_at": "2026-09-18T02:03:32.243703+00:00",
+      "sha256": "0c5cd7dd15224d4faf9202997ce3839821478804d32dc7cea10b51b8badf54bc",
+      "bytes": 3390790
+    },
+    "lineups/3895158.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895158.json",
+      "retrieved_at": "2026-09-18T02:03:29.428527+00:00",
+      "sha256": "c38cba8c021a86daeb2490e25024d243e1390a04cae9755b20c399e488e946a5",
+      "bytes": 20500
+    },
+    "three-sixty/3895158.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895158.json",
+      "retrieved_at": "2026-09-18T02:03:39.333625+00:00",
+      "sha256": "0b0c60d1872f48da465296f006507be0e654b0314eb6481c582c49050d107c18",
+      "bytes": 8266877
+    },
+    "events/3895167.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895167.json",
+      "retrieved_at": "2026-09-18T02:08:36.756900+00:00",
+      "sha256": "a3bfe843f8a95147dd9fdb8dcfb41bc3b940fa84a037aa5c5ef6340f52e87e6c",
+      "bytes": 3691034
+    },
+    "lineups/3895167.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895167.json",
+      "retrieved_at": "2026-09-18T02:08:33.181464+00:00",
+      "sha256": "1d7d55fe5961c80c5bf350e655afbae3b581274dfc9b2f44a42d7119343fbeae",
+      "bytes": 22330
+    },
+    "three-sixty/3895167.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895167.json",
+      "retrieved_at": "2026-09-18T02:08:54.004968+00:00",
+      "sha256": "af6e1af899832dad5fe5c0225d81330ec0da60bc72e69aeb3098ce944198c066",
+      "bytes": 8175136
+    },
+    "events/3895180.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895180.json",
+      "retrieved_at": "2026-09-18T02:05:47.658701+00:00",
+      "sha256": "aeddc426aa8b7af3e7afdefab252e67819e045199bd95b18a2fa944e2a85999e",
+      "bytes": 3819332
+    },
+    "lineups/3895180.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895180.json",
+      "retrieved_at": "2026-09-18T02:05:09.886542+00:00",
+      "sha256": "55f674954ebda5f1e17ae0e68dcbc301f1357a36b4ce06e0dedce91e21ea3bea",
+      "bytes": 19274
+    },
+    "three-sixty/3895180.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895180.json",
+      "retrieved_at": "2026-09-18T02:05:58.130764+00:00",
+      "sha256": "e58a0dc77be7c57cd8c203279583b653544f00da8138651c322e3e9c4376748a",
+      "bytes": 9099174
+    },
+    "events/3895182.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895182.json",
+      "retrieved_at": "2026-09-18T02:08:35.196094+00:00",
+      "sha256": "b3f3f8a620647bdd66fdab4f57ea60492aedef5156eaa08af800be1f976c952b",
+      "bytes": 3448298
+    },
+    "lineups/3895182.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895182.json",
+      "retrieved_at": "2026-09-18T02:07:58.080086+00:00",
+      "sha256": "6cf13075e0a033f7dbda2658e16134a9351593b59d79fbd530960afc0f5da1a4",
+      "bytes": 25586
+    },
+    "three-sixty/3895182.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895182.json",
+      "retrieved_at": "2026-09-18T02:09:24.901241+00:00",
+      "sha256": "61cc889692cb4592c4a6e46a78d7af4e5e6335a9bb37a437ef18b5f42352dfed",
+      "bytes": 8669151
+    },
+    "events/3895194.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895194.json",
+      "retrieved_at": "2026-09-18T02:08:34.110769+00:00",
+      "sha256": "3404cacac2ec167e75064dd3855f8da236bdda068c0d900cdfc0fb36cc5ad188",
+      "bytes": 3522975
+    },
+    "lineups/3895194.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895194.json",
+      "retrieved_at": "2026-09-18T02:07:53.862114+00:00",
+      "sha256": "7b3c46fee207e0494e509bc3877a6132f9c1143cf6c0695ba2e4474cdb2c3122",
+      "bytes": 18410
+    },
+    "three-sixty/3895194.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895194.json",
+      "retrieved_at": "2026-09-18T02:08:42.745763+00:00",
+      "sha256": "05c1b2d1a038069307d08cd2670886567c9a99039ad6eb45fc609d7d63b89f78",
+      "bytes": 8631292
+    },
+    "events/3895202.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895202.json",
+      "retrieved_at": "2026-09-18T02:08:22.762866+00:00",
+      "sha256": "39fa9916efaaf66a639fe4872986d7192043ac974ab4816f998affc0a3db8e0b",
+      "bytes": 3459624
+    },
+    "lineups/3895202.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895202.json",
+      "retrieved_at": "2026-09-18T02:07:46.400253+00:00",
+      "sha256": "4d19fa5c41aed00a962c068f2cf132a143a477b3cbd70bda611b6d535855ba3f",
+      "bytes": 19697
+    },
+    "three-sixty/3895202.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895202.json",
+      "retrieved_at": "2026-09-18T02:08:29.322494+00:00",
+      "sha256": "ead2863486df8b89ac44b9f6e903347970301924c31806d5a7aa116708259059",
+      "bytes": 8170966
+    },
+    "events/3895210.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895210.json",
+      "retrieved_at": "2026-09-18T02:08:15.437309+00:00",
+      "sha256": "30e14ba83b6674b778d8d13b2307db5355181a5fd25cb15c5eb1b2f840827444",
+      "bytes": 4262536
+    },
+    "lineups/3895210.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895210.json",
+      "retrieved_at": "2026-09-18T02:07:35.988336+00:00",
+      "sha256": "16b8e3ea6cf89702972adafd645314f12b88abdc82eedfe7d8570354e6c02b47",
+      "bytes": 18749
+    },
+    "three-sixty/3895210.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895210.json",
+      "retrieved_at": "2026-09-18T02:09:05.291812+00:00",
+      "sha256": "2a0bf648b249de27d3defceffc01a1b92d1e7b3935ffabbe08e91c0e5c56eafb",
+      "bytes": 11373787
+    },
+    "events/3895220.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895220.json",
+      "retrieved_at": "2026-09-18T02:04:47.308769+00:00",
+      "sha256": "3b09b6522dcff98c44ea55163ac977b513c177356b9bddb46dd30a3981bfef64",
+      "bytes": 3679699
+    },
+    "lineups/3895220.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895220.json",
+      "retrieved_at": "2026-09-18T02:04:44.453347+00:00",
+      "sha256": "091e5dfcad215128d23e268770b4c4f92854e3c0b46bc1b760c3984542fc5817",
+      "bytes": 23609
+    },
+    "three-sixty/3895220.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895220.json",
+      "retrieved_at": "2026-09-18T02:04:52.226560+00:00",
+      "sha256": "6818684d75b77000790b777c41d4b7be02895f74337c1915eb58c4e8863e4a9c",
+      "bytes": 8634902
+    },
+    "events/3895232.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895232.json",
+      "retrieved_at": "2026-09-18T02:07:40.894276+00:00",
+      "sha256": "71c47769f161da2a728cf2cefc32fdfc8ba9db81ac1e054488aaaae46f389f48",
+      "bytes": 3576262
+    },
+    "lineups/3895232.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895232.json",
+      "retrieved_at": "2026-09-18T02:07:35.983812+00:00",
+      "sha256": "6f93fb92566158c0005cffc9c86fc739a22d414ec29997d99ea457011d586383",
+      "bytes": 24080
+    },
+    "three-sixty/3895232.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895232.json",
+      "retrieved_at": "2026-09-18T02:07:44.934004+00:00",
+      "sha256": "fe16f8bd125f529a89da4f801f1a3ec708157461a349a0a445c76e23fe54cfa1",
+      "bytes": 9121718
+    },
+    "events/3895244.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895244.json",
+      "retrieved_at": "2026-09-18T02:07:26.540791+00:00",
+      "sha256": "b5415201274952e62d48231e2f4983673009cb6b62009c08604f0e490ae10040",
+      "bytes": 3419925
+    },
+    "lineups/3895244.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895244.json",
+      "retrieved_at": "2026-09-18T02:07:20.194132+00:00",
+      "sha256": "65e5d203e48fd3b209321255477ef171e6ade5a11aada85761b9fa54d1cce637",
+      "bytes": 22035
+    },
+    "three-sixty/3895244.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895244.json",
+      "retrieved_at": "2026-09-18T02:07:34.605456+00:00",
+      "sha256": "e50203ef6bb8112a3db01bfdeab8f5646fee3ae203025f52b5160e07358be4d4",
+      "bytes": 7280918
+    },
+    "events/3895250.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895250.json",
+      "retrieved_at": "2026-09-18T02:04:52.613695+00:00",
+      "sha256": "1a5c6a7614efda5c8431fc32cca5936a7ee552f315b44300780a2159a0406306",
+      "bytes": 3339893
+    },
+    "lineups/3895250.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895250.json",
+      "retrieved_at": "2026-09-18T02:04:49.811927+00:00",
+      "sha256": "4086bd1a576e5a5bd7808698ecbafc58bf61251c1bf1605dc37e5e09835a8c17",
+      "bytes": 22833
+    },
+    "three-sixty/3895250.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895250.json",
+      "retrieved_at": "2026-09-18T02:05:04.998005+00:00",
+      "sha256": "71b0706cc12ed77daa2ab93320238ee61816e9492ebb1e523f9fd564627861bd",
+      "bytes": 8514687
+    },
+    "events/3895258.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895258.json",
+      "retrieved_at": "2026-09-18T02:07:25.737323+00:00",
+      "sha256": "3510b91fa0173e72bfe95d4f93af8e9534e9712ec53a553dcde4031ab1ef89fb",
+      "bytes": 3370766
+    },
+    "lineups/3895258.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895258.json",
+      "retrieved_at": "2026-09-18T02:07:20.035029+00:00",
+      "sha256": "2f039f67f671df13c878b8f7ab81ce90a3b50cb46a3fc6815b480c1b9ceb9605",
+      "bytes": 22786
+    },
+    "three-sixty/3895258.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895258.json",
+      "retrieved_at": "2026-09-18T02:07:35.038915+00:00",
+      "sha256": "3aa55f51fcc5ac5d54dc1a6f58879e032bd6bfda76c9c6b1f9f7f9f59de7bace",
+      "bytes": 7703113
+    },
+    "events/3895266.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895266.json",
+      "retrieved_at": "2026-09-18T02:04:59.600303+00:00",
+      "sha256": "b404b1b3a14f786a2b34c1f5f1d2bbd90b095c2740f6e47d2950e00c6eb5e1b8",
+      "bytes": 3534520
+    },
+    "lineups/3895266.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895266.json",
+      "retrieved_at": "2026-09-18T02:04:53.268027+00:00",
+      "sha256": "007fb23df34bb263a3ff51c249434ee3f893c58912e3f6bf84f3b3f7e02adbf3",
+      "bytes": 25146
+    },
+    "three-sixty/3895266.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895266.json",
+      "retrieved_at": "2026-09-18T02:05:40.843540+00:00",
+      "sha256": "0e7ab2cbf380d33d614085741f615d7ef1766bb9fd4f96098d8595f7dcea7e2e",
+      "bytes": 8887625
+    },
+    "events/3895275.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895275.json",
+      "retrieved_at": "2026-09-18T02:05:47.078724+00:00",
+      "sha256": "53f11b132bde1ab1c7a1e63ceb9d4cd790e9a44bc65209e664c8ab3ad2b5b5d8",
+      "bytes": 3378505
+    },
+    "lineups/3895275.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895275.json",
+      "retrieved_at": "2026-09-18T02:05:42.380412+00:00",
+      "sha256": "601e8e85f4c9aea75349a9c9ba4a912cf644863fbd3ba427dae5c4d09a6d125c",
+      "bytes": 19835
+    },
+    "three-sixty/3895275.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895275.json",
+      "retrieved_at": "2026-09-18T02:05:59.644518+00:00",
+      "sha256": "0a0d5e08e72bb0ff1178c0f420c3a881f2be4bf79f9313121b87f3e6ec9f971f",
+      "bytes": 8432436
+    },
+    "events/3895286.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895286.json",
+      "retrieved_at": "2026-09-18T02:04:02.525292+00:00",
+      "sha256": "d2a8eba6cb9b41f012fd9546754e97d783cc18229cf1b793e0fae23979f388e7",
+      "bytes": 3450915
+    },
+    "lineups/3895286.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895286.json",
+      "retrieved_at": "2026-09-18T02:03:59.545250+00:00",
+      "sha256": "3f8ed59025d58983c8a7e4bd5ba368ebcdc76a064d4ebbfc5e63ddbd4d659393",
+      "bytes": 20039
+    },
+    "three-sixty/3895286.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895286.json",
+      "retrieved_at": "2026-09-18T02:04:12.066620+00:00",
+      "sha256": "d9c2f9ae820783d460e806ca49e3237dc372528dcf21d7c8f412e888e8c1d5e3",
+      "bytes": 9639686
+    },
+    "events/3895292.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895292.json",
+      "retrieved_at": "2026-09-17T06:05:29.977669+00:00",
+      "retrieval_timestamp_basis": "mtime of original download; imported existing Phase 1 evidence or current curl download",
+      "imported_at": "2026-09-17T06:29:17.878568+00:00",
+      "sha256": "546f6f0d4f71b40f81ef82c45b4a19f652ca9152943f45f934b9faca8a5cb728",
+      "bytes": 3337887
+    },
+    "lineups/3895292.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895292.json",
+      "retrieved_at": "2026-09-14T04:03:47.735729+00:00",
+      "retrieval_timestamp_basis": "mtime of original download; imported existing Phase 1 evidence or current curl download",
+      "imported_at": "2026-09-17T06:29:17.740947+00:00",
+      "sha256": "c41011075126da5d90d887b1d1bb22fa8dfc55c2ce6556d0054436a674adba14",
+      "bytes": 21680
+    },
+    "three-sixty/3895292.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895292.json",
+      "retrieved_at": "2026-09-18T02:04:07.221862+00:00",
+      "sha256": "6952e6218b882f754684d5bd4c846b0eb8f820cbb3a942b43300f236af740087",
+      "bytes": 7131378
+    },
+    "events/3895302.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895302.json",
+      "retrieved_at": "2026-09-18T02:04:45.351216+00:00",
+      "sha256": "47743ba159a4c89679faeee9cce1156312807f838311d453bea18f82e3a3a9d5",
+      "bytes": 3630014
+    },
+    "lineups/3895302.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895302.json",
+      "retrieved_at": "2026-09-18T02:04:08.639802+00:00",
+      "sha256": "186ed4ecd2646d7afa6f461483a810b4e68cce0cf24b8db3e8d1456ff44ffb30",
+      "bytes": 18399
+    },
+    "three-sixty/3895302.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895302.json",
+      "retrieved_at": "2026-09-18T02:04:49.050141+00:00",
+      "sha256": "389eb3c9016ff01cbaa98288fe05a2b1b3952556593878cb010f8153bd7965e0",
+      "bytes": 8361801
+    },
+    "events/3895309.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895309.json",
+      "retrieved_at": "2026-09-18T02:07:45.919268+00:00",
+      "sha256": "20e5d981bcb0352348ba8b4236dd1ff43dad316de290e59b8207278e4cd00466",
+      "bytes": 3347211
+    },
+    "lineups/3895309.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895309.json",
+      "retrieved_at": "2026-09-18T02:06:37.903361+00:00",
+      "sha256": "cb3e839b4d843dbfa0bfe2638d58bd7cfc148a5d2cb56030c2133c54654636a1",
+      "bytes": 24202
+    },
+    "three-sixty/3895309.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895309.json",
+      "retrieved_at": "2026-09-18T02:07:53.018246+00:00",
+      "sha256": "2c22aeaad68b992eb96e387ac46a67944a0c2db4cd43e26fe52ea64d2696ee3e",
+      "bytes": 7816937
+    },
+    "events/3895320.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895320.json",
+      "retrieved_at": "2026-09-18T02:04:35.538994+00:00",
+      "sha256": "87b2347238c7946d625b1ba2a20042aef2f906dafbd7a65c7624871b13ae2bce",
+      "bytes": 3274132
+    },
+    "lineups/3895320.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895320.json",
+      "retrieved_at": "2026-09-18T02:04:34.373859+00:00",
+      "sha256": "c55ae6b15b12ebb0ae0108014b21cefcfd5948852bddd05caa55c61b314c0d85",
+      "bytes": 22331
+    },
+    "three-sixty/3895320.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895320.json",
+      "retrieved_at": "2026-09-18T02:04:43.402228+00:00",
+      "sha256": "8943a00a9bd64da1f5d50187e35830ac434ea01e5fa004d54269e99c77e88142",
+      "bytes": 8412091
+    },
+    "events/3895333.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895333.json",
+      "retrieved_at": "2026-09-18T02:06:42.092962+00:00",
+      "sha256": "46aa0d7156256796a7c81f9661035d126c0ec0deda43783d0fb36bd906b60c15",
+      "bytes": 3105531
+    },
+    "lineups/3895333.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895333.json",
+      "retrieved_at": "2026-09-18T02:05:19.132061+00:00",
+      "sha256": "0eea3950d77afcc8d4239d77bf9b3b2262be96afee0f14730377d91cc67aa54e",
+      "bytes": 19138
+    },
+    "three-sixty/3895333.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895333.json",
+      "retrieved_at": "2026-09-18T02:07:57.340049+00:00",
+      "sha256": "5fb8cf919aa6e1eeed5f8d681a385840870de2817398985de7954f5e30a56d70",
+      "bytes": 7606377
+    },
+    "events/3895340.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895340.json",
+      "retrieved_at": "2026-09-18T02:03:49.611563+00:00",
+      "sha256": "0d4780e3f067882d0bc01477fd71e817f109e14112b61a48df1739a0e8eb8faa",
+      "bytes": 2896049
+    },
+    "lineups/3895340.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895340.json",
+      "retrieved_at": "2026-09-18T02:03:41.254576+00:00",
+      "sha256": "21d7905a595a9b9de41a7d2ddbe2225af08bf1b1fb5e5b8a75f3648427ff104b",
+      "bytes": 24925
+    },
+    "three-sixty/3895340.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895340.json",
+      "retrieved_at": "2026-09-18T02:03:58.696858+00:00",
+      "sha256": "95f088c16cbe0bc1b3df9db7dfa3db89801d7198d456bfd415d439b619bc7d7a",
+      "bytes": 6497865
+    },
+    "events/3895348.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3895348.json",
+      "retrieved_at": "2026-09-18T02:05:03.215487+00:00",
+      "sha256": "380a71237d8be1baa5a1dc3ba8bb9c8966e5234bc8d3757f74c384bf9ff3345d",
+      "bytes": 3567849
+    },
+    "lineups/3895348.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/lineups/3895348.json",
+      "retrieved_at": "2026-09-18T02:04:59.392614+00:00",
+      "sha256": "8dc0a37bc33360ec17e9b9605708cafcacd7b80fbd369c1e8b4e3319bf6e3b6c",
+      "bytes": 20244
+    },
+    "three-sixty/3895348.json": {
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/three-sixty/3895348.json",
+      "retrieved_at": "2026-09-18T02:05:08.748741+00:00",
+      "sha256": "52288abecfda45b0a1a479723fa96f767fb8032bcd418b3a0bbbff9729e3ebd9",
+      "bytes": 8788832
+    }
+  }
+}
