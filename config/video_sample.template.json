@@ -1,0 +1,38 @@
+{
+  "template_only": true,
+  "match_id": "",
+  "period": 1,
+  "segment_id": "",
+  "segment_start_frame": 0,
+  "segment_end_frame": null,
+  "period_time_at_segment_start_s": null,
+  "video_sha256": "",
+  "rights": {
+    "permitted_use": false,
+    "basis": "",
+    "redistribution_permitted": false
+  },
+  "teams": {},
+  "team_assignments": {},
+  "detector": {"confidence_threshold": 0.1},
+  "tracker": {"activation_threshold": 0.25, "lost_track_buffer": 30},
+  "short_track_min_frames": 3,
+  "calibration": {
+    "frame_id": 0,
+    "landmark_names": [],
+    "image_points_px": [],
+    "pitch_points_m": [],
+    "ransac_threshold_px": 2.0,
+    "max_inlier_error_px": 3.0,
+    "min_inlier_fraction": 0.75
+  },
+  "camera_review": {
+    "source_method": "manual_review",
+    "reviewed_by": "",
+    "notes": "",
+    "continuous_no_cuts_or_replays": false,
+    "static_camera": false,
+    "max_error_px": 3.0,
+    "checks": []
+  }
+}

@@ -1,0 +1,14 @@
+package,version,license,purpose,source_url,decision
+torchvision,0.29.0+cpu,BSD-3-Clause,pretrained person detection code,https://github.com/pytorch/vision/blob/main/LICENSE,selected; preserve notices; weights have separate dataset caveat
+SSDLite320_MobileNet_V3_Large_Weights,COCO_V1,upstream pretrained model terms; dataset rights separate,pretrained detector weights,https://github.com/pytorch/vision#pre-trained-model-license,local research inference only; no weight redistribution or blanket dataset license claim
+supervision,0.27.0,MIT,ByteTrack short-term MOT,https://github.com/roboflow/supervision/blob/0.27.0/LICENSE.md,selected; preserve notices
+opencv-python,4.13.0.92,MIT wrapper; Apache-2.0 OpenCV; bundled third-party notices,video decoding and homography,https://github.com/opencv/opencv-python/blob/master/LICENSE.txt,selected; retain binary notices including bundled FFmpeg LGPL terms
+PyYAML,6.0.3,MIT,Supervision transitive dependency,https://github.com/yaml/pyyaml/blob/main/LICENSE,selected unmodified
+tqdm,4.70.1,MIT and MPL-2.0,Supervision transitive dependency,https://github.com/tqdm/tqdm/blob/master/LICENCE,selected unmodified; preserve file-level notices
+pytest,9.1.1,MIT,test runner,https://github.com/pytest-dev/pytest/blob/main/LICENSE,development only
+torch,2.14.0+cpu,BSD-3-Clause,existing inference runtime,https://github.com/pytorch/pytorch/blob/main/LICENSE,reused
+numpy,2.5.3,BSD-3-Clause,existing numerical arrays,https://github.com/numpy/numpy/blob/main/LICENSE.txt,reused
+pyarrow,25.0.1,Apache-2.0,existing canonical and source tables,https://github.com/apache/arrow/blob/main/LICENSE.txt,reused
+matplotlib,3.11.2,Matplotlib license based on PSF,existing local debug plotting,https://matplotlib.org/stable/project/license.html,reused
+scipy,1.18.1,BSD-3-Clause,Supervision numerical dependency already installed,https://github.com/scipy/scipy/blob/main/LICENSE.txt,reused
+Ultralytics,not installed,AGPL-3.0 or Enterprise,alternative detector considered,https://www.ultralytics.com/license,not selected; project has no AGPL licensing declaration; checked 2026-09-22

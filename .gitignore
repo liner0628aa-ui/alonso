@@ -6,3 +6,7 @@ data/interim/
 data/processed/
 # Legacy Phase 1 downloaded source evidence also stays local.
 data/availability/
+
+# Step 4: footage, weights, review frames and detailed rows stay local.
+outputs/video_tracking_mvp_local/
+.pytest_cache/

@@ -1,0 +1,8 @@
+# Optional Step 4 stack; existing research requirements stay unchanged.
+-r requirements.txt
+torchvision==0.29.0+cpu
+supervision==0.27.0
+opencv-python==4.13.0.92
+PyYAML==6.0.3
+tqdm==4.70.1
+pytest==9.1.1
