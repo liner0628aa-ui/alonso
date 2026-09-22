@@ -1,0 +1,34 @@
+{
+  "test_command": ".venv/bin/python -m pytest -q",
+  "tests_passed": 127,
+  "tests_failed": 0,
+  "subtests_passed": 20,
+  "full_test_output": ".................................................... [ 40%]\n........................................................................ [ 97%]\n...                                                                      [100%]\n127 passed, 20 subtests passed in 37.42s",
+  "existing_tests_passed": 83,
+  "new_tests_passed": 44,
+  "original_tracked_files_checked": 120,
+  "original_tracked_files_modified": [],
+  "protected_files_modified": [],
+  "raw_data_ignored": "data/raw/spatial_skillcorner/tracking_prefix.jsonl",
+  "deterministic_second_run": {
+    "csv_files_byte_identical": [
+      "feature_dictionary.csv",
+      "frame_quality_summary.csv",
+      "player_spatial_features.csv",
+      "team_frame_features.csv",
+      "team_spatial_features.csv"
+    ],
+    "plot_byte_identical": true,
+    "runtime_metadata_expected_to_vary": true
+  },
+  "source_sha256": {
+    "src/analysis/spatial_engine_report.py": "0361447020b54c75742f4faca501ea1e07bd0a71c94964dc8e927825b0266f1e",
+    "src/data/sources/skillcorner_tracking.py": "d5d3a954d0f040c54055189451e952970893488cee852faafd39af16fdf3fc89",
+    "src/spatial/__init__.py": "d34b3f05022ba3f1e3fd63889f6c07a6d7ff0a954c56a739cb0b645becd688c7",
+    "src/spatial/coordinates.py": "7c086838bccfe31ff63d9029a05db8509f09d27076d316de8bbc113b9048482b",
+    "src/spatial/features.py": "a477cd0d963c7efab421dd7c5a98e324b1a3e1ae2ee038414ae5096871d617e0",
+    "tests/test_skillcorner_tracking.py": "4a00ce2b3d943c4575b4be812e7bb56e1923d82398595c0287348d4af6f03195",
+    "tests/test_spatial.py": "6ceb5f8d8818d6b0e4bec70bd2453ab3d8aeeb13f6f40a03f95d4bd5f63ad87a",
+    "tests/test_spatial_report.py": "891110b97e8b7ab704e403027124487d8be675b15d0ebf0dd11b810866f77133"
+  }
+}

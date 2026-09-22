@@ -1,0 +1,3 @@
+match_id,period,team_id,window_start_s,window_end_s,sample_interval_s,observed_frames,expected_frames,visible_fraction,frame_coverage_fraction,visible_frames,mean_visible_team_players,valid_team_frames,mean_team_width_m,median_team_width_m,valid_team_width_frames,mean_team_depth_m,median_team_depth_m,valid_team_depth_frames
+skillcorner:match:1886347,1,skillcorner:team:1805,0.0,30.0,0.1,300,300,0.8533333333333334,1.0,256,6.586666666666667,256,41.4083203125,40.18999999999999,256,25.182134540264425,23.120192307692307,256
+skillcorner:match:1886347,1,skillcorner:team:4177,0.0,30.0,0.1,300,300,0.8533333333333334,1.0,256,6.723333333333334,256,36.105703125,34.230000000000004,256,22.802281775841344,23.110096153846147,256

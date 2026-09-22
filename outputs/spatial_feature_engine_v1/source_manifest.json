@@ -1,0 +1,90 @@
+{
+  "version": "spatial-v1",
+  "source": "SkillCorner Open Data",
+  "commit": "4340d274572876239c154c90bc507a9b3250a656",
+  "tracking_url": "https://media.githubusercontent.com/media/SkillCorner/opendata/4340d274572876239c154c90bc507a9b3250a656/data/matches/1886347/1886347_tracking_extrapolated.jsonl",
+  "metadata_url": "https://raw.githubusercontent.com/SkillCorner/opendata/4340d274572876239c154c90bc507a9b3250a656/data/matches/1886347/1886347_match.json",
+  "license_url": "https://raw.githubusercontent.com/SkillCorner/opendata/4340d274572876239c154c90bc507a9b3250a656/LICENSE",
+  "documentation_url": "https://raw.githubusercontent.com/SkillCorner/opendata/4340d274572876239c154c90bc507a9b3250a656/README.md",
+  "coordinate_diagram_url": "https://raw.githubusercontent.com/SkillCorner/opendata/4340d274572876239c154c90bc507a9b3250a656/assets/field.jpg",
+  "raw_sha256": {
+    "1886347_match.json": "30c608e78663e9f490b3545479a3ce67b171f418c5133d5609cb249a2466abb2",
+    "tracking_prefix.jsonl": "a9007d3e342b4d5acc18a7defea62cadaf7a9cd934ca64d8d1a39796b60e3cc9",
+    "LICENSE": "3384cc66ffd008209759af5e6328677eabded72756fb1f56f4f82e68e9b3c6eb"
+  },
+  "raw_bytes": 1048576,
+  "match_id": 1886347,
+  "period": 1,
+  "time_range_s": [
+    0.0,
+    30.0
+  ],
+  "interval": "[start,end)",
+  "first_frame": 10,
+  "last_frame": 309,
+  "frames": 300,
+  "teams": 2,
+  "tracked_identities": 22,
+  "input_rows": 6600,
+  "valid_observations": 3993,
+  "provider_pitch_m": [
+    104,
+    68
+  ],
+  "canonical_pitch_m": [
+    105,
+    68
+  ],
+  "conversion": "x_m=(x/104+0.5)*105; y_m=(0.5-y/68)*68; team-relative rotation if negative_x",
+  "shared_coordinate_ranges": {
+    "x_m": [
+      3.3620192307692283,
+      98.87163461538461
+    ],
+    "y_m": [
+      3.3799999999999986,
+      67.10000000000001
+    ]
+  },
+  "visible_player_distribution": {
+    "0": 44,
+    "9": 32,
+    "10": 8,
+    "11": 29,
+    "12": 9,
+    "13": 9,
+    "14": 15,
+    "15": 2,
+    "16": 25,
+    "17": 3,
+    "18": 31,
+    "19": 28,
+    "20": 65
+  },
+  "min_team_players": 3,
+  "radii_m": [
+    5.0,
+    10.0
+  ],
+  "lane_fractions": [
+    0.2,
+    0.4,
+    0.6,
+    0.8
+  ],
+  "sample_interval_s": 0.1,
+  "plotted_frame": 24,
+  "engine_runtime_s": 2.3076099299360067,
+  "sanity": {
+    "status": "PASS",
+    "finite_numeric_values_checked": 69667,
+    "checks": [
+      "finite values",
+      "nonnegative distances and densities",
+      "pitch-bounded extents",
+      "occupancies sum to one",
+      "halfspace sum",
+      "coverage bounds"
+    ]
+  }
+}
